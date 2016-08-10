@@ -1,0 +1,5 @@
+C:\Users\Luis R Castro\Documents\Visual Studio 2013\Projects\Technical test Cecropia\Database\bin\Debug\Database.dacpac
+C:\Users\Luis R Castro\Documents\Visual Studio 2013\Projects\Technical test Cecropia\Database\bin\Debug\Database.dll
+C:\Users\Luis R Castro\Documents\Visual Studio 2013\Projects\Technical test Cecropia\Database\bin\Debug\Database.pdb
+C:\Users\Luis R Castro\Documents\Visual Studio 2013\Projects\Technical test Cecropia\Database\obj\Debug\Database.dll
+C:\Users\Luis R Castro\Documents\Visual Studio 2013\Projects\Technical test Cecropia\Database\obj\Debug\Database.pdb
